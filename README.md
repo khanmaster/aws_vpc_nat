@@ -10,7 +10,7 @@
 
 
 **VPC and its resources**
-![](add a VPC diagram)
+- ![](images/vpc_1.png)
 - Route table rules
 - SG rules
 - Subnets cidr blocks
@@ -18,7 +18,7 @@
 
 
 **2 Tier Achitecture Deployment in our own VPC**
-![](add a diagram)
+- ![](images/2tier-aws-deployment.png)
 - should have all rules at all levels required
 
 
